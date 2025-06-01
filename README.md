@@ -9,7 +9,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=akarshghildyal&icon=10&color=7)](https://visitcount.itsvg.in)
-
-[![akarshghildyal's GitHub | Stats](https://stats.quira.sh/akarshghildyal/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=akarshghildyal)
-[![akarshghildyal's GitHub | Languages Over Time](https://stats.quira.sh/akarshghildyal/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=akarshghildyal)
-[![akarshghildyal's GitHub | Topics Over Time](https://stats.quira.sh/akarshghildyal/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=akarshghildyal)
